@@ -1,0 +1,12 @@
+GEM
+  specs:
+    optparse (0.2.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  optparse
+
+BUNDLED WITH
+   2.4.6
