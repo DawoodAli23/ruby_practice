@@ -11,7 +11,3 @@ def reverse(x)
   end
   (flag ? -1 : 1)*reversedNumber
 end
-
-puts reverse(-321)
-puts reverse(321)
-puts reverse(120)

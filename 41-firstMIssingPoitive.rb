@@ -11,5 +11,3 @@ def first_missing_positive(nums=[])
   i
 end
 
-
-puts first_missing_positive [3,4,-1,1]

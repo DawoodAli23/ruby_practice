@@ -11,6 +11,3 @@ def oneNumber nums
 end
 
 
-
-puts oneNumber([4,1,2,1,2])
-puts oneNumber([2,2,1])

@@ -7,9 +7,7 @@ def broken_calc(start_value, target)
     else
       target = target/2
     end
+    puts target
   end
   start_value-target+count
 end
-
-# puts broken_calc 2,3
-puts broken_calc 5,8 #2
